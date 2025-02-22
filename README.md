@@ -1,164 +1,164 @@
 # Emotional Triggers
-- **Red** (#FF0000)  
+- **Red** <span style="color:#FF0000;">(#FF0000)</span>  
   - **Emotion**: Excitement, passion, urgency  
-  - **Finish or Variation**: Matte red can appear bold and intense, while metallic red adds a premium, sleek feel.  
-  - **Usage Tip**: Often employed to create urgency or draw immediate attention (e.g., sale banners, clearance campaigns).
+  - **Finish or Variation**: Matte red can appear bold and intense; metallic red adds a premium, sleek feel.  
+  - **Usage Tip**: Often employed to create urgency or draw immediate attention (e.g., sale banners).
 
-- **Blue** (#0000FF)  
+- **Blue** <span style="color:#0000FF;">(#0000FF)</span>  
   - **Emotion**: Trust, dependability, calmness  
-  - **Finish or Variation**: Matte blue underscores reliability; a glossy finish can add a modern, tech-savvy edge.  
+  - **Finish or Variation**: Matte blue underscores reliability; a glossy finish adds a tech-savvy edge.  
   - **Usage Tip**: Common in corporate branding to inspire confidence and stability.
 
-- **Green** (#008000)  
+- **Green** <span style="color:#008000;">(#008000)</span>  
   - **Emotion**: Growth, freshness, health  
-  - **Finish or Variation**: Matte or pastel green suits eco-friendly or organic product designs; metallic green can feel innovative.  
-  - **Usage Tip**: Widely used to communicate sustainability or financial well-being.
+  - **Finish or Variation**: Matte or pastel green suits eco-friendly designs; metallic green can feel innovative.  
+  - **Usage Tip**: Perfect for brands emphasizing sustainability or financial stability.
 
-- **Purple** (#800080)  
+- **Purple** <span style="color:#800080;">(#800080)</span>  
   - **Emotion**: Luxury, creativity, wisdom  
-  - **Finish or Variation**: A matte purple can suggest understated elegance; a metallic purple evokes royalty and high-end appeal.  
-  - **Usage Tip**: Ideal for brands aiming for a regal or imaginative perception.
+  - **Finish or Variation**: Matte purple for understated elegance; metallic purple for a regal, high-end appeal.  
+  - **Usage Tip**: Ideal for brands wanting a sophisticated or imaginative perception.
 
-- **Yellow** (#FFFF00)  
+- **Yellow** <span style="color:#FFFF00;">(#FFFF00)</span>  
   - **Emotion**: Optimism, happiness, warmth  
-  - **Finish or Variation**: Matte yellow can appear more subdued; neon yellow draws immediate attention with a sense of fun.  
-  - **Usage Tip**: Great for highlighting important elements or exuding a cheerful brand image.
+  - **Finish or Variation**: Matte yellow is softer; neon yellow draws instant attention.  
+  - **Usage Tip**: Great for highlighting elements or creating a cheerful brand image.
 
-- **Orange** (#FFA500)  
+- **Orange** <span style="color:#FFA500;">(#FFA500)</span>  
   - **Emotion**: Energy, enthusiasm, affordability  
-  - **Finish or Variation**: Matte orange feels welcoming; a shiny or glossy orange accentuates excitement.  
-  - **Usage Tip**: Frequently seen in budget-friendly branding or call-to-action buttons.
+  - **Finish or Variation**: Matte orange feels friendly; a glossy finish radiates extra excitement.  
+  - **Usage Tip**: Common for budget-friendly branding or call-to-action buttons.
 
-- **Black** (#000000)  
+- **Black** <span style="color:#000000;">(#000000)</span>  
   - **Emotion**: Power, elegance, mystery  
-  - **Finish or Variation**: Matte black radiates sophistication; glossy black or carbon fiber-like textures hint at luxury or technology.  
-  - **Usage Tip**: A staple for upscale, luxury brands and modern, minimalist designs.
+  - **Finish or Variation**: Matte black radiates sophistication; glossy black suggests luxury or high-tech.  
+  - **Usage Tip**: A staple for upscale or minimalist brands.
 
-- **White** (#FFFFFF)  
+- **White** <span style="color:#666666;">(#FFFFFF)</span>  <!-- Using a darker color so it's visible -->
   - **Emotion**: Purity, simplicity, cleanliness  
-  - **Finish or Variation**: Matte white emphasizes minimalism; pearlescent white can feel futuristic.  
-  - **Usage Tip**: Often a base or background color to convey clarity, used frequently in modern, minimalist branding.
+  - **Finish or Variation**: Matte white highlights minimalism; pearlescent white feels futuristic.  
+  - **Usage Tip**: Often a base color to convey clarity and modern design.
 
-- **Gray** (#808080)  
+- **Gray** <span style="color:#808080;">(#808080)</span>  
   - **Emotion**: Neutrality, balance, sophistication  
-  - **Finish or Variation**: Matte gray suggests practicality; metallic gray highlights modern or industrial vibes.  
-  - **Usage Tip**: Ideal for professional, understated brand identities (e.g., tech or consulting firms).
+  - **Finish or Variation**: Matte gray implies practicality; metallic gray introduces an industrial or tech vibe.  
+  - **Usage Tip**: Ideal for professional, understated brand identities.
 
-- **Teal** (#008080)  
+- **Teal** <span style="color:#008080;">(#008080)</span>  
   - **Emotion**: Stability, renewal, approachability  
-  - **Finish or Variation**: A matte teal can look grounding; a glossy teal might appeal to modern and fresh brand aesthetics.  
-  - **Usage Tip**: Combines the calmness of blue with the growth-oriented feel of green—ideal for healthcare or wellness brands.
+  - **Finish or Variation**: Matte teal looks grounded; glossy teal suits modern, fresh aesthetics.  
+  - **Usage Tip**: Merges calmness (blue) with growth (green) — excellent for healthcare or wellness brands.
 
-- **Pink** (#FFC0CB)  
+- **Pink** <span style="color:#FFC0CB;">(#FFC0CB)</span>  
   - **Emotion**: Tenderness, romance, nurturing  
-  - **Finish or Variation**: Pastel or matte pink brings warmth and softness; neon pink introduces a playful, youthful energy.  
-  - **Usage Tip**: Often employed in products or brands aiming for a comforting, feminine, or gentle impression.
+  - **Finish or Variation**: Pastel pink offers warmth and softness; neon pink is youthful and bold.  
+  - **Usage Tip**: Often used for comforting, feminine-focused, or gentle product branding.
 
-- **Gold** (#FFD700)  
+- **Gold** <span style="color:#FFD700;">(#FFD700)</span>  
   - **Emotion**: Luxury, success, prestige  
-  - **Finish or Variation**: Metallic gold exudes opulence; matte gold can be more subtle yet still premium.  
-  - **Usage Tip**: Popular for highlighting awards, achievements, or premium product lines.
+  - **Finish or Variation**: Metallic gold conveys opulence; matte gold is subtle yet still premium.  
+  - **Usage Tip**: Popular for awards, achievements, and highlighting premium product lines.
 
 ---
 
 # Target Audience & Market Segments
 
 ## For Children
-- **Bright Red** (#FF0000)  
+- **Bright Red** <span style="color:#FF0000;">(#FF0000)</span>  
   - **Emotion**: Excitement, adventure  
-  - **Finish or Variation**: Matte can keep it kid-friendly and approachable, while a bright glossy version can be extra fun.  
-  - **Usage Tip**: Great for action toys, bold packaging, and high-energy marketing.
+  - **Finish or Variation**: Matte for a friendly vibe; glossy for extra fun.  
+  - **Usage Tip**: Perfect for action toys and vibrant packaging.
 
-- **Vibrant Yellow** (#FFFF00)  
+- **Vibrant Yellow** <span style="color:#FFFF00;">(#FFFF00)</span>  
   - **Emotion**: Playfulness, joy  
-  - **Finish or Variation**: Matte yellow works well for friendly and soft imagery; neon yellow is eye-catching for high-energy branding.  
-  - **Usage Tip**: Widely used in children’s products for an uplifting, fun atmosphere.
+  - **Finish or Variation**: Matte yellow is approachable; neon yellow is very attention-grabbing.  
+  - **Usage Tip**: Great for children’s products seeking a fun, energetic feel.
 
-- **Bright Pink** (#FF69B4)  
+- **Bright Pink** <span style="color:#FF69B4;">(#FF69B4)</span>  
   - **Emotion**: Sweetness, friendliness  
-  - **Finish or Variation**: Matte pink offers a gentle, approachable look; a more reflective finish adds pop and vibrancy.  
-  - **Usage Tip**: Perfect for toys, clothing, and branding that aims to be cheerful and lighthearted.
+  - **Finish or Variation**: Matte pink is soft and approachable; glossy pink adds bold pop.  
+  - **Usage Tip**: Used in toys and kids’ apparel, especially for cheerful brand messaging.
 
 ## For Professionals
-- **Navy Blue** (#000080)  
+- **Navy Blue** <span style="color:#000080;">(#000080)</span>  
   - **Emotion**: Authority, reliability, trust  
-  - **Finish or Variation**: Matte navy underlines seriousness; a slight sheen might give a modern spin for tech companies.  
-  - **Usage Tip**: Frequently seen in corporate, financial, and government branding.
+  - **Finish or Variation**: Matte navy implies seriousness; a light sheen suggests modernity.  
+  - **Usage Tip**: Common in corporate, financial, or government branding.
 
-- **Dark Gray** (#555555)  
+- **Dark Gray** <span style="color:#555555;">(#555555)</span>  
   - **Emotion**: Sophistication, practicality, modernity  
-  - **Finish or Variation**: Matte dark gray is tasteful and sleek; metallic dark gray adds an industrial or tech-focused feel.  
-  - **Usage Tip**: Used in consulting, legal, and technology industries for a polished, professional look.
+  - **Finish or Variation**: Matte dark gray is sleek and tasteful; metallic suggests a high-tech edge.  
+  - **Usage Tip**: Suitable for consulting, legal, and tech firms aiming for a polished look.
 
-- **Burgundy** (#800020)  
+- **Burgundy** <span style="color:#800020;">(#800020)</span>  
   - **Emotion**: Refined seriousness, subtle luxury  
-  - **Finish or Variation**: Matte burgundy conveys depth and tradition; a glossy or satin finish can add boldness.  
-  - **Usage Tip**: Common in upscale or boutique professional settings (e.g., law firms, wealth management).
+  - **Finish or Variation**: Matte burgundy is classic and deep; a glossy finish can be bold and prestigious.  
+  - **Usage Tip**: Great for upscale corporate or boutique professional services.
 
 ## For Eco-Conscious Consumers
-- **Forest Green** (#228B22)  
+- **Forest Green** <span style="color:#228B22;">(#228B22)</span>  
   - **Emotion**: Nature, sustainability, calm  
-  - **Finish or Variation**: Matte forest green is organic and earthy; adding texture can reinforce a raw, natural aesthetic.  
-  - **Usage Tip**: Ideal for products emphasizing environmental care or natural ingredients.
+  - **Finish or Variation**: Matte forest green gives an organic feel; textured finishes can reinforce a raw, earthy look.  
+  - **Usage Tip**: Ideal for eco-friendly and health-oriented branding.
 
-- **Earthy Brown** (#8B4513)  
+- **Earthy Brown** <span style="color:#8B4513;">(#8B4513)</span>  
   - **Emotion**: Organic, rustic, grounded  
-  - **Finish or Variation**: Matte brown can appear artisanal; a subtle gloss might suggest warmth (e.g., wood or leather).  
-  - **Usage Tip**: Appeals to brands focused on handcrafted, eco-friendly, or farm-to-table narratives.
+  - **Finish or Variation**: Matte brown appears artisanal; a slight gloss feels warmer (e.g., wooden or leather vibe).  
+  - **Usage Tip**: Appeals to brands emphasizing handcrafted or eco-friendly products.
 
-- **Olive Green** (#808000)  
-  - **Emotion**: Earthy connection, understated eco-friendliness  
-  - **Finish or Variation**: Matte olive green feels authentic and pragmatic; a satin finish can blend well with modern eco-branding.  
-  - **Usage Tip**: Conveys sustainability with a calm, grounded tone.
+- **Olive Green** <span style="color:#808000;">(#808000)</span>  
+  - **Emotion**: Earthy, understated eco-friendliness  
+  - **Finish or Variation**: Matte olive green feels authentic and practical; satin can work in modern eco-branding.  
+  - **Usage Tip**: Conveys sustainability in a subtle, grounded manner.
 
 ## For Gender-Focused Branding
-- **Sky Blue** (#87CEEB)  
+- **Sky Blue** <span style="color:#87CEEB;">(#87CEEB)</span>  
   - **Emotion**: Calm, approachability  
-  - **Finish or Variation**: Matte or pastel sky blue for a softer touch; a bright or metallic sky blue for a fun, lively impression.  
-  - **Usage Tip**: Traditionally aligned with masculine branding in certain cultures; also popular for baby-centric products.
+  - **Finish or Variation**: Matte or pastel for a softer feel; bright sky blue is playful and fun.  
+  - **Usage Tip**: Traditionally aligned with masculine branding in some cultures; popular for baby products.
 
-- **Soft Pink** (#FFC0CB)  
+- **Soft Pink** <span style="color:#FFC0CB;">(#FFC0CB)</span>  
   - **Emotion**: Tenderness, romance, nurturing  
-  - **Finish or Variation**: Pastel or matte pink resonates with warmth and kindness; a slightly glossier pink can look chic.  
-  - **Usage Tip**: Commonly utilized in feminine-focused or beauty-based products.
+  - **Finish or Variation**: A pastel or matte pink can be gentle; glossier pink can add a chic, modern flair.  
+  - **Usage Tip**: Common in feminine-focused or beauty-driven markets.
 
-- **Lavender** (#E6E6FA)  
+- **Lavender** <span style="color:#E6E6FA;">(#E6E6FA)</span>  
   - **Emotion**: Gentleness, relaxation, subtle luxury  
-  - **Finish or Variation**: Matte lavender is calming; a pearlized or iridescent finish can enhance a wellness or spa-like feel.  
-  - **Usage Tip**: Fitting for self-care, wellness, and lifestyle brands.
+  - **Finish or Variation**: Matte lavender is soothing; a pearlized finish enhances a spa or wellness vibe.  
+  - **Usage Tip**: Perfect for self-care, lifestyle, or wellness brands.
 
 ---
 
 # Sensory Triggers (Touch & Feel)
-- **Light Pink** (#FFB6C1)  
+- **Light Pink** <span style="color:#FFB6C1;">(#FFB6C1)</span>  
   - **Emotion**: Softness, delicacy  
-  - **Finish or Variation**: Matte or pastel finish can emphasize comfort; a silky or satin finish suggests plushness.  
-  - **Usage Tip**: Perfect for product packaging meant to feel inviting and gentle.
+  - **Finish or Variation**: Matte or pastel finish heightens comfort; a silky finish feels plush.  
+  - **Usage Tip**: Ideal for cozy product packaging or gentle brand imagery.
 
-- **Metallic Silver** (#C0C0C0)  
+- **Metallic Silver** <span style="color:#C0C0C0;">(#C0C0C0)</span>  
   - **Emotion**: Sleekness, modernity, coolness  
-  - **Finish or Variation**: High-shine metallic silver is futuristic; a brushed matte silver feels industrial yet refined.  
+  - **Finish or Variation**: High-shine silver is futuristic; brushed silver is industrial yet refined.  
   - **Usage Tip**: Conveys high-tech innovation or luxury minimalism.
 
-- **Cream** (#FFFDD0)  
+- **Cream** <span style="color:#FFFDD0;">(#FFFDD0)</span>  
   - **Emotion**: Warmth, smoothness, sophistication  
-  - **Finish or Variation**: Matte cream can look artisanal; a pearlescent cream suggests high-end, luxury appeal.  
-  - **Usage Tip**: Often used for brands seeking a soft, inviting atmosphere (e.g., bakeries, spas).
+  - **Finish or Variation**: Matte cream is artisanal; pearlescent cream adds a subtle, upscale glow.  
+  - **Usage Tip**: Common in bakeries, spas, or brands seeking a soft, welcoming atmosphere.
 
-- **Dark Brown** (#654321)  
+- **Dark Brown** <span style="color:#654321;">(#654321)</span>  
   - **Emotion**: Richness, earthiness, solidity  
-  - **Finish or Variation**: Matte brown is classic and grounded; a textured finish can mimic leather or wood.  
-  - **Usage Tip**: Great for products aiming for a natural, warm, or robust aesthetic.
+  - **Finish or Variation**: Matte brown is grounded; a textured finish can mimic leather or wood.  
+  - **Usage Tip**: Ideal for brands aiming for a natural, warm, or robust aesthetic.
 
-- **Cool Mint** (#98FF98)  
+- **Cool Mint** <span style="color:#98FF98;">(#98FF98)</span>  
   - **Emotion**: Freshness, crispness, cleanliness  
-  - **Finish or Variation**: Pastel or matte mint is gentle and soothing; a glossier finish can feel icy and refreshing.  
-  - **Usage Tip**: Ideal for beauty, hygiene, or wellness products highlighting a cool, clean aura.
+  - **Finish or Variation**: Matte mint is soothing; a glossy finish feels icy and invigorating.  
+  - **Usage Tip**: Great for beauty, hygiene, or wellness products emphasizing a cooling effect.
 
-- **Pastel Blue** (#AEC6CF)  
+- **Pastel Blue** <span style="color:#AEC6CF;">(#AEC6CF)</span>  
   - **Emotion**: Airiness, calmness, lightness  
-  - **Finish or Variation**: Matte pastel blue intensifies a soft, comforting feel; a subtle shine can add a delicate sparkle.  
-  - **Usage Tip**: Suitable for items or brands aiming for a soothing, dreamy presentation.
+  - **Finish or Variation**: Matte pastel blue feels soft and comforting; a light shine can add a dreamy sparkle.  
+  - **Usage Tip**: Fits products or brands wanting a gentle, tranquil presentation.
 
 ---
 
